@@ -1,0 +1,77 @@
+Git -- 4hrs tutorial
+
+LPTHW -- Book
+
+Python Algorithms -- Book
+
+MongoDB Database -- Book
+
+GeeksForGeeks -- Daily
+
+
+
+Software Engineering:
+
+Problem Solving
+
+CS Fundamentals
+
+System Designs
+
+Algorithms
+
+Stories
+
+Resources for Preperation:
+
+HighScalability
+	--http://highscalability.com/
+	used for designing high scalable solutions.
+	
+InterviewBit
+	--https://www.interviewbit.com/
+	used for coding interview questions.
+
+HackerRank
+	--https://www.hackerrank.com/
+	--problem solving and coding questions.
+
+LeetCode
+	--https://leetcode.com/
+
+AlgoExpert
+	--https://www.algoexpert.io/product
+
+codechef
+	--https://www.codechef.com/
+
+codeforces
+
+
+Reference Books:
+	--Algorithms by Cormen
+	--Databases by Korth
+
+
+linkedin connections:
+---------------------
+
+Vibhor Agarwal
+
+Phaneendhra Vobilisetty
+
+Abhijit Kamune
+
+
+
+
+
+
+
+
+
+
+
+
+
+
